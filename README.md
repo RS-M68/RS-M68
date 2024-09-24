@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋I'm Rahul
+- 🌱 I’m currently learning Spring
+- 👨‍💻 All my projects are available at [Portfolio Link]
+- 💬 Ask me about web development
+- 📫 How to reach me: [[Email/LinkedIn]](https://www.linkedin.com/in/rahul-myakala-/)(rahulsagar0608@gmail.com)
+- ⚡ Fun fact: I love watching animie
 
 <!--
 **RS-M68/RS-M68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
