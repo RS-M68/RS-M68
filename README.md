@@ -12,6 +12,8 @@ ETL Foundations: Hands-on experience with SQL-based data extraction and transfor
 Cloud Basics: Familiar with AWS services like S3, Glue, and Athena for data engineering tasks
 Team Projects: Worked on academic and personal projects involving sales analysis, product dashboards, and data quality improvement
 Continuous Learner: Actively upskilling through online certifications and contributing to GitHub projects
+
+Agentic Design Patterns
 <!--
 **RS-M68/RS-M68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
