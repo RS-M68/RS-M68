@@ -1,9 +1,7 @@
 ## Hi there 👋I'm Rahul
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Agentic AI
 - 👨‍💻 All my projects are available at [Portfolio Link]
 - 💬 Ask me about 
-- 📫 How to reach me: LinkedIn: www.linkedin.com/in/rs-m68
-                       Email: rahulsagar5475@gmail.com
 - ⚡ Fun fact: I love watching animie
 - 
 🛠️ Key Highlights:
