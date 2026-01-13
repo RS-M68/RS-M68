@@ -1,4 +1,6 @@
-## Hi there 👋I'm Rahul
+## <p align="center">
+  <img src="assets/name.svg" alt="Rahul Myakala" width="800" />
+</p>
 - 🌱 I’m currently learning Agentic AI
 - 👨‍💻 All my projects are available at [Portfolio Link]
 - 💬 Ask me about 
