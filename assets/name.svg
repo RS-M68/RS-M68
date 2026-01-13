@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-label="Rahul Myakala">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="55%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <!-- Name -->
+  <g filter="url(#softShadow)">
+    <text x="50%" y="120"
+          text-anchor="middle"
+          font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="86"
+          font-weight="800"
+          letter-spacing="1"
+          fill="url(#grad)">
+      Rahul Myakala
+    </text>
+
+    <!-- Subtle outline to keep it crisp on any theme -->
+    <text x="50%" y="120"
+          text-anchor="middle"
+          font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="86"
+          font-weight="800"
+          letter-spacing="1"
+          fill="none"
+          stroke="#000"
+          stroke-opacity="0.10"
+          stroke-width="2">
+      Rahul Myakala
+    </text>
+  </g>
+
+  <!-- Accent line -->
+  <path d="M380 175 C520 205, 880 205, 1020 175"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="6"
+        stroke-linecap="round"
+        opacity="0.95"/>
+</svg>
