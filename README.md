@@ -1,6 +1,10 @@
 ## <p align="center">
-  <img src="assets/name.svg" alt="Rahul Myakala" width="800" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=900&color=000000&center=true&vCenter=true&width=900&lines=Rahul%20Myakala"
+    alt="Rahul Myakala"
+  />
 </p>
+#
 - 🌱 I’m currently learning Agentic AI
 - 👨‍💻 All my projects are available at [Portfolio Link]
 - 💬 Ask me about 
