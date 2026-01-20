@@ -1,14 +1,15 @@
-## <p align="center">
+## Hello I'm <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=900&color=6B7280&center=true&vCenter=true&width=900&lines=Rahul%20Myakala"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=400&color=6B7280&center=true&vCenter=true&width=900&lines=Rahul%20Myakala"
     alt="Rahul Myakala"
   />
 </p>
-#
-- 🌱 I’m currently learning Agentic AI
-- 👨‍💻 All my projects are available at [Portfolio Link]
-- 💬 Ask me about 
-- ⚡ Fun fact: I love watching animie
+
+
+#- 🌱 I’m currently learning Agentic AI
+#- 👨‍💻 All my projects are available at [Portfolio Link]
+#- 💬 Ask me about 
+#- ⚡ Fun fact: I love watching animie
 - 
 🛠️ Key Highlights:
 Data Analytics Skills: Skilled in cleaning, transforming, and visualizing data using SQL, Power BI, and Excel
