@@ -1,9 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=400&color=6B7280&center=true&vCenter=true&width=900&lines=Rahul%20Myakala"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2400&pause=600&color=60A5FA&center=true&vCenter=true&width=900&lines=Rahul%20Myakala;Generative%20AI%20Engineer;Rahul%20Myakala;Agentic%20AI%20%26%20RAG%20Builder"
     alt="Rahul Myakala"
   />
 </p>
+
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
