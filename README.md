@@ -1,13 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2400&pause=600&color=60A5FA&center=true&vCenter=true&width=900&lines=Rahul%20Myakala;Generative%20AI%20Engineer;Rahul%20Myakala;Agentic%20AI%20%26%20RAG%20Builder"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2900&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Rahul%20Myakala;Generative%20AI%20Engineer;Rahul%20Myakala;Agentic%20AI%20%26%20RAG%20Builder"
     alt="Rahul Myakala"
   />
 </p>
 
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
   <a href="https://www.linkedin.com/in/rahulsm68-/">LinkedIn</a> •
   <a href="https://github.com/RS-M68">GitHub</a> •
   <a href="mailto:rahulsm0608@gmail.com">Email</a> •
@@ -140,22 +139,25 @@
 ---
 
 ## Featured projects
-> Replace these with your real repos + links. Don’t list 20 projects. List 3–5 strong ones.
 
-### 1) Sales Performance Dashboard (Power BI + SQL)
-- Built an interactive dashboard to track revenue, product performance, and trends  
-- Improved reporting clarity with standardized metrics and clean data model  
-**Repo:** YOUR_REPO_LINK • **Demo:** YOUR_DEMO_LINK
+### 1) Enterprise Support Agent (Google ADK + Gemini) (Kaggle – 2025)
+- Built a multi-agent ticket triage system using manager–specialist orchestration with tool-augmented LLM workflows
+-  Implemented schema-enforced outputs and observability for reliability
+**Repo:** https://github.com/RS-M68/enterprise-support-agent-adk
 
-### 2) Data Quality Improvement Pipeline (Python + SQL)
-- Automated validation checks and transformations for inconsistent datasets  
-- Generated summary reports to highlight anomalies and missing values  
-**Repo:** YOUR_REPO_LINK
+### 2) AI-Powered Media Search & Recommendation Systems ( Gemini + Big Query )
+- Built a cloud-based movie discovery workflow combining ETL pipelines, semantic search concepts, and personalized recommendations
+- Added monitoring dashboards to track ranking behavior and engagement signals
 
-### 3) Agentic AI Mini-Project (In Progress)
-- Implementing agentic patterns: routing, tools, memory, and guardrails  
-- Focus: reliability, prompt structure, evaluation  
-**Repo:** YOUR_REPO_LINK
+### 3) Empirical Evaluation of Heart Attack Detection 
+- Built a reproducible ML benchmarking workflow on clinical datasets to compare classical classifiers for cardiovascular risk prediction
+- Focused on stable evaluation, threshold tuning, and interpretability for decision support  
+**Repo:** https://github.com/RS-M68/ML-Project
+  
+### 4) Handwritten Text to Digital Text Conversion (OCR) 
+- Developed an OCR pipeline using CNN feature extraction and sequence modeling with CTC decoding to recognize handwritten text
+-  Focused on preprocessing, augmentation, decoding, and extensibility to word-level OCR
+**Repo:** https://github.com/RS-M68/Neural-Project
 
 ---
 
