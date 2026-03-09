@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rs-m68/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/">LinkedIn</a> •
   <a href="https://github.com/RS-M68">GitHub</a> •
   <a href="mailto:rahulsm0608@gmail.com">Email</a> •
   <a href="https://www.kaggle.com/rahulms68">Kaggle</a>
